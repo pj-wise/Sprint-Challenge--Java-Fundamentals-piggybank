@@ -2,8 +2,6 @@ package piggyBank;
 
 public class Dime extends AbstractCash {
 
-    // for empty tests
-
     public Dime(int count) {
         super(count);
         value = 0.10;

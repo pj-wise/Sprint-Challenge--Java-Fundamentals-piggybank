@@ -2,8 +2,6 @@ package piggyBank;
 
 public class Dollar extends AbstractCash {
 
-    // for empty tests
-
     public Dollar(int count) {
         super(count);
         value = 1;
