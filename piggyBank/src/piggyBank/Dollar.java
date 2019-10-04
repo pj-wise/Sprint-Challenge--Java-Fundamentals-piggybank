@@ -1,6 +1,8 @@
-package pjwise.piggyBank;
+package piggyBank;
 
-public class Dollar extends AbstractMoney {
+public class Dollar extends AbstractCash {
+
+    // for empty tests
 
     public Dollar(int count) {
         super(count);

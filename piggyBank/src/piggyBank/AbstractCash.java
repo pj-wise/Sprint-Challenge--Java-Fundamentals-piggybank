@@ -1,4 +1,4 @@
-package pjwise.piggyBank;
+package piggyBank;
 
 public abstract class AbstractCash {
 
